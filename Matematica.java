@@ -1,28 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bruleaoana 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-zamfiroiu
-/
-TestJenkins
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-TestJenkins/Matematica.java
-@zamfiroiu zamfiroiu Add files via upload
-f67f158 24 days ago
-34 lines (28 sloc)  664 Bytes
-  
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -56,15 +31,3 @@ public class Matematica {
 		return lista;
 	}
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
