@@ -1,27 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bruleaoana 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-zamfiroiu
-/
-TestJenkins
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-TestJenkins/MatematicaTests.java
-@zamfiroiu zamfiroiu Add files via upload
-de23c02 6 days ago
-84 lines (69 sloc)  1.75 KB
-  
 import static org.junit.Assert.*;
 import java.util.List;
 import org.junit.Before;
@@ -106,15 +82,3 @@ public class MatematicaTests {
 
 	}
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
